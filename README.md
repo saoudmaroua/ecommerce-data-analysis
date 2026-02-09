@@ -1,4 +1,4 @@
-📊 E-commerce Data Analysis & Business Insights
+## 📊 E-commerce Data Analysis & Business Insights
 📌 Project Overview
 
 This project analyzes real-world e-commerce transaction data to extract actionable business insights. The goal is to demonstrate strong skills in data cleaning, data analysis, testing, and insight generation using Python.
@@ -59,6 +59,13 @@ Total Revenue
 Total Orders
 
 Total Customers
+
+## ✅ Results Summary
+- Identified monthly seasonality in sales performance  
+- Found revenue concentration in top products  
+- Highlighted top-performing countries for market targeting  
+- Applied basic validation checks to ensure data quality  
+
 
 📊 Visual Insights
 Monthly Sales Trend
